@@ -1,4 +1,4 @@
-# 🌱 Generative AI for Youth Mental Wellness
+# Generative AI for Youth Mental Wellness
 ### *An AI-powered, confidential, and empathetic mental wellness solution for Indian youth*
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-2025-blue?style=for-the-badge)]()
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **Problem:**  
 Mental health is still a taboo in India, making it hard for youth to access support. Academic and social pressures increase stress, anxiety, and isolation.  
@@ -16,7 +16,7 @@ Our platform leverages **Google Cloud Generative AI** to provide a **confidentia
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Promote **emotional well-being**  
 - Provide **accessible mental health guidance**  
@@ -24,41 +24,41 @@ Our platform leverages **Google Cloud Generative AI** to provide a **confidentia
 
 ---
 
-## 🔑 Features
+## Features
 
-### 📝 AI-Journal / Mood Diary
+###  AI-Journal / Mood Diary
 - Daily check-ins via **text or voice**  
 - Personalized summaries of emotional patterns over time  
 
-### 💬 Confidential Empathetic Chat Companion
+### Confidential Empathetic Chat Companion
 - **Multilingual support:** Hindi, Telugu, Tamil, Bengali, Hinglish  
 - Tone-adaptive responses: supportive, calming, motivational  
 
-### 🧠 Emotion & Sentiment Detection
+### Emotion & Sentiment Detection
 - AI detects stress, anxiety, sadness from text/voice  
 - Suggests **relaxation activities, journaling, or counseling**  
 
-### 🌐 Anonymous Peer Support Spaces
+### Anonymous Peer Support Spaces
 - AI-moderated community spaces  
 - Generates conversation starters & positive nudges  
 
 ### 🗣 Voice-based Empathy AI
 - Chat in your own language like talking to a friend  
 
-### 📖 AI Storytelling for Healing
+### AI Storytelling for Healing
 - Narrate feelings → AI reframes as a **resilience story**  
 
-### 🎮 Gamified Wellness
+### Gamified Wellness
 - Daily challenges: journaling, breathing, social interaction  
 - Streaks & points for motivation  
 - AI celebrates achievements  
 
-### 🎵 AI Mood-to-Music Generator
+### AI Mood-to-Music Generator
 - Generates playlists or short **lo-fi tracks** based on mood  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer        | Technology                                     |
 |--------------|-----------------------------------------------|
@@ -70,7 +70,7 @@ Our platform leverages **Google Cloud Generative AI** to provide a **confidentia
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -86,12 +86,12 @@ npm install
 npm start
 ```
 ---
-## 🎬 Demo
+## Demo
 
 https://mentra-mental-wellne-ex2w.bolt.host
 
 ---
-## 🔮 Future Improvements
+## Future Improvements
 
 Real-time counselor support integration
 
