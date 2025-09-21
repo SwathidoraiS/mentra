@@ -42,7 +42,7 @@ Our platform leverages **Google Cloud Generative AI** to provide a **confidentia
 - AI-moderated community spaces  
 - Generates conversation starters & positive nudges  
 
-### 🗣 Voice-based Empathy AI
+### Voice-based Empathy AI
 - Chat in your own language like talking to a friend  
 
 ### AI Storytelling for Healing
@@ -88,7 +88,7 @@ npm start
 ---
 ## Demo
 
-https://mentra-mental-wellne-ex2w.bolt.host
+https://mentra-self.vercel.app/
 
 ---
 ## Future Improvements
